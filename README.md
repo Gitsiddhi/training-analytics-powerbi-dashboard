@@ -1,4 +1,4 @@
-# training-analytics-powerbi-dashboard
+# Training-Analytics-Powerbi-Dashboard
 
 3-page Power BI dashboard analyzing training effectiveness, 
 retention and tenure patterns across 1,04,707 employees 
